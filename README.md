@@ -26,7 +26,7 @@
 
  <p align="center">  
  <a href="[LUTHER.jpg](LUTHER.jpg)">
-    <img alt="OWNER" height="200" src="MR-LUTHER.jpg">
+    <img alt="OWNER" height="200" src="LUTHER.jpg">
  
 **[» Contact For](https://wa.me/+919332425327)**
 <p align="center">
