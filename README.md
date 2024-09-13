@@ -25,11 +25,11 @@
 ⚜️|**[`MR LUTHER`]**|
 
  <p align="center">  
- <a href="[MR-LUTHER.jpg](MR-LUTHER.jpg)">
+ <a href="LUTHER.jpg">
     <img alt="OWNER" height="200" src="MR-LUTHER.jpg">
  
 **[» Contact For](https://wa.me/+919332425327)**
-<p align="left">
+<p align="center">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
