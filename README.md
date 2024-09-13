@@ -1,4 +1,3 @@
-https://i.pinimg.com/originals/dd/80/04/dd8004f0c24c16fa33ed20b7a8d33d21.gif
 <h1 align="center">Hi 👋, I'm MR LUTHER</h1>
 <h3 align="center">∂ση'т тσυ¢н му ѕσυℓ вє¢αυѕє уσυ αяє ησт мιηє</h3>
 
