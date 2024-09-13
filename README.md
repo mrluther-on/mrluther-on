@@ -1,15 +1,34 @@
 <h1 align="center">Hi 👋, I'm MR LUTHER</h1>
+
+
+<div align="center">
 <h3 align="center">∂ση'т тσυ¢н му ѕσυℓ вє¢αυѕє уσυ αяє ησт мιηє</h3>
 
-<p align="left"> <img src="https://i.pinimg.com/originals/dd/80/04/dd8004f0c24c16fa33ed20b7a8d33d21.gif" alt="mrluther-on" /> </p>
+
+<div align="center">
+<p align="center"> <img src="https://i.pinimg.com/originals/dd/80/04/dd8004f0c24c16fa33ed20b7a8d33d21.gif" alt="mrluther-on" /> </p>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://spogit.vercel.app/api?theme=dark&rainbow=true&scan=true" alt="Widget with the current Spotify song"  />
+</div>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **PROGRAMMAR**
 
 - 📫 How to reach me **lutherofficial009@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+
+⚜️|**[`MR LUTHER`]**|
+
+ <p align="center">  
+ <a href="[MR-LUTHER.jpg](MR-LUTHER.jpg)">
+    <img alt="OWNER" height="200" src="MR-LUTHER.jpg">
+ 
+**[» Contact For](https://wa.me/+919332425327)**
 <p align="left">
 </p>
 
