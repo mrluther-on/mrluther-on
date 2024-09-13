@@ -25,7 +25,7 @@
 ⚜️|**[`MR LUTHER`]**|
 
  <p align="center">  
- <a href="[MR-LUTHER.jpg](MR-LUTHER.jpg)">
+ <a href="[LUTHER.jpg](LUTHER.jpg)">
     <img alt="OWNER" height="200" src="MR-LUTHER.jpg">
  
 **[» Contact For](https://wa.me/+919332425327)**
