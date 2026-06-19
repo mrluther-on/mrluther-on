@@ -18,8 +18,10 @@
 ###
 
 <div align="center">
-  <img src="https://spogit.vercel.app/api?theme=dark&rainbow=true&scan=true" alt="Widget with the current Spotify song"  />
-</div>
+ 
+
+[![Now Playing](https://lastfm-recently-played.vercel.app/api?user=YOUR_LASTFM_USERNAME)](https://www.last.fm/user/YOUR_LASTFM_USERNAME)
+
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
