@@ -20,7 +20,7 @@
 <div align="center">
  
 
-[![Now Playing](https://lastfm-recently-played.vercel.app/api?user=YOUR_LASTFM_USERNAME)](https://www.last.fm/user/YOUR_LASTFM_USERNAME)
+[![Now Playing](https://lastfm-recently-played.vercel.app/api?user=Subaruthegreat)](https://www.last.fm/user/Subaruthegreat)
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
