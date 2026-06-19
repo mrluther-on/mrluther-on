@@ -18,6 +18,15 @@
 ###
 
 <div align="center">
+
+
+
+<!-- Discord Presence Card (Shows YT Music) -->
+<div align="center">
+  <img src="https://lanyard.cnrad.dev/api/meluther?theme=dark&bg=1a1c1e&animated=true" alt="Now Playing" />
+</div>
+
+
  
 
 [![Now Playing](https://lastfm-recently-played.vercel.app/api?user=Nongreat)](https://www.last.fm/user/Nongreat)
