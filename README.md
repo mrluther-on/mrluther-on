@@ -7,6 +7,13 @@
 <div align="center">
 <h3 align="center">∂ση'т тσυ¢н му ѕσυℓ вє¢αυѕє уσυ αяє ησт мιηє</h3>
 
+<!-- 🎵 YAHAN APNE GITHUB PAGES KA LINK INSER KAREIN -->
+<a href="https://YOUR-USERNAME.github.io/YOUR-REPO-NAME" target="_blank">
+  <img src="https://img.shields.io/badge/🎵%20Listen%20To%20My%20Live%20Playlist-🎵-1DB954?style=for-the-badge&logo=spotify" alt="Play Music" width="280">
+</a>
+
+<br><br>
+
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 <div align="center">
@@ -20,17 +27,7 @@
 <div align="center">
 
 
-
-<!-- Discord Presence Card (Shows YT Music) -->
-<div align="center">
-  <img src="https://lanyard.cnrad.dev/api/meluther?theme=dark&bg=1a1c1e&animated=true" alt="Now Playing" />
-</div>
-
-
- 
-
 [![Now Playing](https://lastfm-recently-played.vercel.app/api?user=Nongreat)](https://www.last.fm/user/Nongreat)
-
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -69,4 +66,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrluther-on&show_icons=true&locale=en" alt="mrluther-on" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrluther-on&" alt="mrluther-on" /></p>
-
