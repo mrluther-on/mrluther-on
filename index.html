@@ -1,1 +1,36 @@
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>MR LUTHER Playlist</title>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; background: #121212; color: white; padding-top: 100px; }
+        h1 { color: #1db954; }
+    </style>
+</head>
+<body>
+    <h1>MR LUTHER'S PLAYLIST 🎵</h1>
+    <h2 id="song-title">Kahi bhi click karo gaana shuru karne ke liye!</h2>
+    <audio id="my-audio"></audio>
+
+    <script>
+        // YAHAN APNE MP3 GAANO KE NAAM DALO (JO REPO MEIN UPLOAD KIYE HAIN)
+        const playlist = ['song1.mp3', 'song2.mp3', 'song3.mp3']; 
+        
+        const audio = document.getElementById('my-audio');
+        const songTitle = document.getElementById('song-title');
+
+        function playRandomSong() {
+            const randomIndex = Math.floor(Math.random() * playlist.length);
+            const currentSong = playlist[randomIndex];
+            audio.src = currentSong;
+            songTitle.innerText = "Playing: " + currentSong;
+            audio.play().catch(err => console.log("Click to play"));
+        }
+
+        audio.addEventListener('ended', playRandomSong);
+        window.addEventListener('click', () => { if (!audio.src) playRandomSong(); }, { once: true });
+    </script>
+</body>
+</html>
