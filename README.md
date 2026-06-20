@@ -8,7 +8,7 @@
 <h3 align="center">∂ση'т тσυ¢н му ѕσυℓ вє¢αυѕє уσυ αяє ησт мιηє</h3>
 
 <!-- 🎵 YAHAN APNE GITHUB PAGES KA LINK INSER KAREIN -->
-<a href="https://YOUR-USERNAME.github.io/YOUR-REPO-NAME" target="_blank">
+<a href="https://mrluther-on.github.io/mrluther-on" target="_blank">
   <img src="https://img.shields.io/badge/🎵%20Listen%20To%20My%20Live%20Playlist-🎵-1DB954?style=for-the-badge&logo=spotify" alt="Play Music" width="280">
 </a>
 
