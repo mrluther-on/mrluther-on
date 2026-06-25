@@ -124,9 +124,10 @@
   </a>
 
   <!-- Discord -->
-  <a href="https://discord.gg/DXfQctqF" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
-  </a>
+  <!-- Discord -->
+<a href="https://discord.com/users/meluther" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
+</a>
 
   <!-- Gmail (Isme 'mailto:' ke baad apna email likhein, jaise mailto:lutherofficial444@gmail.com) -->
   <a href="mailto:lutherofficial009@gmail.com" target="_blank">
@@ -140,9 +141,4 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/snake-output/snake.svg" alt="Snake animation" />
-
 ###
