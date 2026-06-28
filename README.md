@@ -47,7 +47,7 @@
  <a href="[LUTHER.jpg](LUTHER.jpg)">
     <img alt="OWNER" height="200" src="LUTHER.jpg">
  
-**[» Click on it](https://wa.me/)**
+**[» Click on it](https://wa.me/+3197010573306)**
 <p align="center">
 </p>
 
